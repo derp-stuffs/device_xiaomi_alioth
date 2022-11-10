@@ -12,6 +12,13 @@ LOCAL_OVERRIDES_PACKAGES := \
     Maps \
     MyVerizonServices \
     OBDM_Permissions \
+    GoogleTTS \
+    Velvet \
+    MaestroPrebuilt \
+    AndroidAutoStubPrebuilt \
+    talkback \
+    SafetyHubPrebuilt \
+    SoundAmplifierPrebuilt \
     obdm_stub \
     OemDmTrigger \
     OPScreenRecord \
@@ -20,6 +27,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     ScribePrebuilt \
     Showcase \
     Snap \
+    MusicFX \
     SprintDM \
     SprintHM \
     VZWAPNLib \
