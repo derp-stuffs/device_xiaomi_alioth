@@ -23,6 +23,11 @@ LOCAL_OVERRIDES_PACKAGES := \
     OemDmTrigger \
     OPScreenRecord \
     Ornament \
+    MatLog \
+    Jelly \
+    Eleven \
+    Aperture \
+    Glimpse \
     SafetyHubPrebuilt \
     ScribePrebuilt \
     Showcase \
